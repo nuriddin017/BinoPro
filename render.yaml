@@ -7,6 +7,6 @@ services:
     startCommand: "python bot.py"
     envVars:
       - key: BOT_TOKEN
-        value: 7782911772:AAHfg2jrQWcv59FfdREHeSw3y77drULasdw
+        value: 
       - key: APP_URL
         value: https://your-service-name.onrender.com
